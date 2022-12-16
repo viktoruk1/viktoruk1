@@ -4,11 +4,12 @@
 
 - 🌱 I’m currently a Power Bi Analyst 📊 & working on a Webscarping project using python & Power BI.
 
--  🖥 TECHNICAL SKILLS
-      Database And Report Querying: MySQL | MS Access | Google BigQuery (GCP)
-      Project Management: Asana 
-      Data Analysis & vizualization tools: SQL | Microsoft Power BI |Google Data Studio
-      Other Applications: MS Office suite- Advanced Excel, Word and PowerPoint | AutoCad
+-  🖥 TECHNICAL SKILLS 
+
+      •Database And Report Querying: MySQL | MS Access | Google BigQuery (GCP) | 
+•Project Management: Asana
+•Data Analysis & vizualization tools: SQL | Microsoft Power BI |Google Data Studio
+      •Other Applications: MS Office suite- Advanced Excel, Word and PowerPoint | AutoCad
 
 - 💞️ I’m looking to collaborate on projects, contracts and jobs.
 - 📫 How to reach me 👇
