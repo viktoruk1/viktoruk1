@@ -10,7 +10,9 @@
 
       •Project Management: Asana
 
-      •Data Analysis & vizualization tools: SQL | Microsoft Power BI |Google Data Studio
+      •Data Analysis & vizualization tools: SQL | Microsoft Power BI | oogle Data Studio | Tableau
+      
+      •Programming Languages: Python (Matplotlib, Pandas, Numpy)
       
       •Other Applications: MS Office suite- Advanced Excel, Word and PowerPoint | AutoCad
 
