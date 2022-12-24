@@ -6,11 +6,12 @@
 
 -  🖥 TECHNICAL SKILLS 
 
-      •Database And Report Querying: MySQL | MS Access | Google BigQuery (GCP) | 
+      •Database And Report Querying: MySQL | MS Access | Google BigQuery (GCP)  
 
-•Project Management: Asana
+      •Project Management: Asana
 
-•Data Analysis & vizualization tools: SQL | Microsoft Power BI |Google Data Studio
+      •Data Analysis & vizualization tools: SQL | Microsoft Power BI |Google Data Studio
+      
       •Other Applications: MS Office suite- Advanced Excel, Word and PowerPoint | AutoCad
 
 - 💞️ I’m looking to collaborate on projects, contracts and jobs.
