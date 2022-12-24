@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Green Energy and providing data-driven 📈 solutions to real world problems and simplify the data space for young prospects👨‍💻.
 
-- 🌱 I’m currently a Power Bi Analyst 📊 & working on a Webscarping project using python & Power BI.
+- 🌱 I’m currently a Power Bi Analyst 📊 & working on a Webscarping project using Python & Power BI.
 
 -  🖥 TECHNICAL SKILLS 
 
