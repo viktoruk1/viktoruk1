@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a freshly graduated Mechanical Engineer. 
+- 👋 Hi, I’m a Mechanical Engineer Graduate. 
 
 - 👀 I’m interested in Green Energy and providing data-driven 📈 solutions to real world problems and simplify the data space for young prospects👨‍💻.
 
